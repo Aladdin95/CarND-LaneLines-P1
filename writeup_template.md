@@ -41,7 +41,7 @@ My pipeline consisted of 5 steps.
 then i applied hough_lines function to extract the lines from the output image of canny 
 but the result is alot of lines disonected 
 
-# In order to draw a single line on the left and right lanes, I modified the draw_lines() function 
+In order to draw a single line on the left and right lanes, I modified the draw_lines() function 
 to connect and average only 2 lane lines
 i sperate the 2 lane line by slope into 2 categories 
 negative slope which represent the left lane
