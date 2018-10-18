@@ -58,4 +58,4 @@ the colour of the line is not clear due to the shades of trees
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to apply a coulor transformation
+A possible improvement would be to apply a color transformation
